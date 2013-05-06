@@ -1,0 +1,3 @@
+<interceptors>
+    <class>org.my.impl.MyInterceptorImpl</class>
+</interceptors>
